@@ -1,1 +1,2 @@
-A simple CRM to manage client leads 
+FUTURE_FS_TASK-2
+
